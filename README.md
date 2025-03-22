@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=10.0">
+    <meta name="viewport" content="width=device-width, initial-scale=100.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 </head>
 <body>
